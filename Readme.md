@@ -3,11 +3,9 @@
 
 This project demonstrates how to use the **XGBoost Classifier** to train a machine learning model on a dataset using Python. It walks through the full ML workflow — from loading data to evaluating model accuracy and visualizing feature importance.
 
-## 📁 Files
+## 📁 File
 
 - `xgboost.ipynb` — The main Jupyter Notebook with step-by-step code and explanations.
-- `xgboost_with_explanations.ipynb` — An enhanced version of the notebook with simple markdown descriptions for each step.
-- `xgboost_commented.ipynb` — A version of the notebook with inline code comments for beginners.
 
 ## 🚀 What You’ll Learn
 
@@ -47,9 +45,6 @@ We use `accuracy_score` to evaluate how well the model performs on unseen test d
 - Use cross-validation for more reliable performance measurement
 - Try with different datasets
 
-## 🙌 Author
-
-This project was built as a learning exercise for beginners exploring machine learning with XGBoost. Perfect for portfolio or academic use.
 
 ## 🩺 Project Overview: Predicting Diabetes
 
